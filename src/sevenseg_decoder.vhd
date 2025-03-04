@@ -41,4 +41,5 @@ architecture Behavioral of sevenseg_decoder is
 begin
 
 
+
 end Behavioral;
